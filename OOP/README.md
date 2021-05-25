@@ -61,7 +61,7 @@ You have to implement concepts of inheritance and polymorphism in this assignmen
 
 
 Command/Script to Run Problem : s
-      Step 1: Firstly Move on the OOP folder
-      Step 2: Generate class file by "javac Driver.java"
-      Step 3: Then, execute java Driver
-      Step 4: program execute successfully.
+   1. _Step 1: Firstly Move on the OOP folder_
+   2. _Step 2: Generate class file by "javac Driver.java"_
+   3. _Step 3: Then, execute java Driver_
+   4. _Step 4: program execute successfully._
