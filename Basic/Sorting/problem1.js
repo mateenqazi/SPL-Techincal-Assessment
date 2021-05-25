@@ -1,5 +1,5 @@
 const swap = (items, leftIndex, rightIndex) => {
-    var temp = items[leftIndex];
+    let temp = items[leftIndex];
     items[leftIndex] = items[rightIndex];
     items[rightIndex] = temp;
 }
@@ -22,7 +22,7 @@ const partition = (items, left, right) => {
 }
 
 const quickSort = (items, left, right) => {
-    var index;
+    let index;
     if (items.length > 1) {
         index = partition(items, left, right); //index returned from partition
         if (left < index - 1)  //more elements on the left side of the pivot
@@ -32,6 +32,6 @@ const quickSort = (items, left, right) => {
     }
     return items;
 }
-var items = [5, 3, 7, 6, 2, 9, -1];
+const items = [5, 3, 7, 6, 2, 9, -1];
 // first call to quick sort
-console.log(quickSort(items, 0, items.length - 1)); //prints [2,3,5,6,7,9]
+console.log(quickSort(items, 0, items.length - 1));

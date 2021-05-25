@@ -58,3 +58,10 @@ You have to implement concepts of inheritance and polymorphism in this assignmen
 
 5. _Overload operators if required._
 6. _Thought Process and Approach in this problem should be well documented_
+
+
+Command/Script to Run Problem : s
+      Step 1: Firstly Move on the OOP folder
+      Step 2: Generate class file by "javac Driver.java"
+      Step 3: Then, execute java Driver
+      Step 4: program execute successfully.

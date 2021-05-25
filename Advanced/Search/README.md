@@ -25,7 +25,7 @@
             Write a program to filter the identical pairs.
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: node problem1.js (Firstly Move on to the Advanced/Search folder)
 
 ## Problem 2: Calculate The Frequency of Numbers in An Array
 
@@ -44,4 +44,4 @@
 
 
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: node problem2.js (Firstly Move on to the Advanced/Search folder)

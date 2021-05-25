@@ -26,7 +26,7 @@
             How do we find the pivot in the array containing even number of elements?
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: node problem1.js (Firstly Move on to the Basic/Sorting folder)
 
 ## Problem 2: Find maximum number from a list of numbers (both negative and non-negative).
 
@@ -46,4 +46,4 @@
        Can we use the method DistributiveArray written above to achieve this?
 
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: node problem2.js (Firstly Move on to the Basic/Sorting folder)

@@ -24,7 +24,7 @@
         int a'[n]: the rotated array
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: node problem1.js (Firstly Move on to the Basic/Arrays folder)
 
 ## Problem 2: Array Reversal
 
@@ -44,4 +44,4 @@
         solve it using rotLeft function?
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: node problem2.js (Firstly Move on to the Basic/Arrays folder)
